@@ -65,18 +65,6 @@ It should include a map.
 
 As we completed the above, we started to build our product up feature by feature until we ended up with an app we were all proud of.
 
-## Tech Stack
-
-For this project we are using:
-
-- [MongoDB](https://www.mongodb.com/) for the database.
-- [Express](https://expressjs.com/) web framework for Node.js.
-- [React Native](https://reactnative.dev/) for the frontend.
-- [Node](https://nodejs.org/en/) for the back-end.
-- [Jest](https://jestjs.io/) for testing.
-- [Mongoose](https://mongoosejs.com) to model objects in MongoDB.
-- [Prettier](https://prettier.io/) for formatting.
-
 ## Contributors
 [Anisha Hirani](https://github.com/anisha-11) 
 
